@@ -18,7 +18,7 @@ Sou amante de livros, dos animais, defensora da educação, apoiadora fiel do mo
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+
 </div>
   
   ##
@@ -28,8 +28,6 @@ Sou amante de livros, dos animais, defensora da educação, apoiadora fiel do mo
  <a href="https://discord.gg/camilamoura#3307" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:moura.camilaluiza@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camilalnmoura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/camilalnmoura/camilalnmoura/blob/output/github-contribution-grid-snake.svg)
-  
+   
 </div>
 
