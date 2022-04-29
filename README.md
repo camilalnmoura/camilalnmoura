@@ -1,9 +1,14 @@
-## Olá, sou a Mila! 😎
+## Olá, Tudo Bem? ✌
+Olá, sou a Mila! (:
 Atualmente buscando atuar como Analista de Testes. 
 
-Apesar de ser recém chegada na área de tecnologia, já atuei na área da contabilidade (Departamento Pessoal), além de gerenciar por oito anos no varejo. 
+📊 Apesar de ser recém chegada na área de tecnologia, já atuei na área da contabilidade (Departamento Pessoal), além de gerenciar por oito anos no varejo. 
 
-Sou amante de livros, dos animais, defensora da educação, apoiadora fiel do movimento de emponderamento feminino, sustentabilidade, igualdade e inclusão. 🙌
+✨ Sou amante de livros, dos animais, defensora da educação, apoiadora fiel do movimento de emponderamento feminino, sustentabilidade, igualdade e inclusão.
+
+🌻 Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos com outras pessoas para que todos possamos crescer e criar novas formas de ajudar o mundo.
+
+Fique a vontade para me adcionar, é um prazer ter você por aqui! 🤗
 
 <div align="center">
   <a href="https://github.com/camilalnmoura">
