@@ -1,8 +1,7 @@
 ## Olá, Tudo Bem? ✌
 Olá, sou a Mila! (:
-Atualmente buscando atuar como Analista de Testes. 
 
-📊 Apesar de ser recém chegada na área de tecnologia, já atuei na área da contabilidade (Departamento Pessoal), além de gerenciar por oito anos no varejo. 
+Sou recém chegada na área da Tecnologia.  
 
 ✨ Sou amante de livros, dos animais, defensora da educação, apoiadora fiel do movimento de emponderamento feminino, sustentabilidade, igualdade e inclusão.
 
