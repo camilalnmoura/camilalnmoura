@@ -1,7 +1,7 @@
 ## Olá, Tudo Bem? ✌
 Olá, sou a Mila! (:
 
-Sou recém chegada na área da Tecnologia.  
+ 
 
 ✨ Sou amante de livros, dos animais, defensora da educação, apoiadora fiel do movimento de emponderamento feminino, sustentabilidade, igualdade e inclusão.
 
